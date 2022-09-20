@@ -36,5 +36,5 @@ INSERT into "user" (user_id, "user", email, country, sex, age, privacy)
 values(5, 'NikolasPort', 'Nikolaaa@gmail.com', 'France', 'm', '23', 'private');
 
 select * from movie;
-INSERT into movie (movie_id, e9, box_off9c
+INSERT into movie (movie_id,0
 
